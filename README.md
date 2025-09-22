@@ -42,11 +42,11 @@ In this project, forecasting techniques are applied to sales data to anticipate 
 ---
 
 ## 💡 Business Insights
-- **1️⃣ Overall Sales Performance:** 
-•	Total Sales: $2,35M
-•	Total Cost: $2,06M
-•	Net Profit: $283K
-•	Gross Margin: 12.06%
+### 1️⃣ Overall Sales Performance
+***Total Sales: $2,35M***
+***Total Cost: $2,06M***
+***Net Profit: $283K***
+***Gross Margin: 12.06%***
 
 - **Geographical Insights:**
 •	France leads with $608K in sales, followed by Germany ($483K), and United kingdom ($418K).
