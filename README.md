@@ -24,7 +24,7 @@ For this project, I applied the full data analysis process:
 - [🛠 Tools Used](#-tools-used)
 - [🧹 Data Cleaning](#-data-cleaning)
 - [🏗 Data Modeling](#-data-modeling)
-- [Measures](#-Measures)
+- [🔢 Measures](#-measures)
 - [🎯Business Questions](#-business-questions)
 
 
@@ -139,7 +139,7 @@ Designed a **Snowflake Schema** in Power Pivot with relationships between fact a
 
 ---
 
-## Measures
+## 🔢 Measures
 - 01.Total Sales
 - 02.Net Profit Value
 - 03.Total Cost Of Product S0ld
