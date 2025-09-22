@@ -19,12 +19,12 @@ For this project, I applied the full data analysis process:
 ---
 
 ## 📑 Table of Contents
-- [Project Overview](#-sales-analysis-dashboard)
 - [📊 Key Features](#-key-features)
 - [💡 Business Insights](#-business-insights)
 - [🛠 Tools Used](#-tools-used)
 - [🧹 Data Cleaning](#-data-cleaning)
 - [🏗 Data Modeling](#-data-modeling)
+- [Measures](#-Measures)
 - [🎯Business Questions](#-business-questions)
 
 
