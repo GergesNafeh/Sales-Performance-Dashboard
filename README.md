@@ -48,7 +48,7 @@ In this project, forecasting techniques are applied to sales data to anticipate 
 •	Net Profit: $283K
 •	Gross Margin: 12.06%
 
-- **2️⃣ Geographical Insights:**
+- **Geographical Insights:**
 •	France leads with $608K in sales, followed by Germany ($483K), and United kingdom ($418K).
 •	London is the top-performing city, while Denmark shows very low sales with only $34 recorded.
 
@@ -58,7 +58,7 @@ In this project, forecasting techniques are applied to sales data to anticipate 
 
 ---
  
-- **3️⃣ Product Performance:** 
+- **2️⃣ Product Performance:** 
 •	Defining top 5 selling product ( Eldon file card is the top one  product selling) 
 •	I used the biggest year of financial growth and was able to identify the products that contributed to this boost.
 
@@ -67,7 +67,19 @@ In this project, forecasting techniques are applied to sales data to anticipate 
 ![Product Analysis](https://github.com/user-attachments/assets/23091a22-8585-44f7-a5f4-0e843dff3057)
 
 ---
- 
+
+
+ - **3️⃣ Root-Cause Analysis:** 
+• understanding sales trends and improving performance. 
+• The 2019 data highlights underperforming regions like Denmark and Copenhagen, where   products such as Hon Shipping Labels fell short. Meanwhile.
+• 2024 shows strong sales in Apple and Nokia Smart Phones, but a noticeable decline in Chromcraft products.
+
+
+![Root Cause](https://github.com/user-attachments/assets/3a3af825-f290-4fb0-ad7b-274d1265afbf)
+
+
+
+---
 
 - **4️⃣ Customer Segmentation (RFM Analysis):** 
 •	104 Champions: These are the highest-value customers.
