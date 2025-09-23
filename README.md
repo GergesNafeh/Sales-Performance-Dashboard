@@ -1,6 +1,9 @@
 # Sales-Performance-Dashboard #
 - An interactive Power BI dashboard that provides a complete view of sales performance. It tracks Sales, Profit, Quantity, Discounts, and highlights top-performing products, categories, and regions. Built with DAX measures, data modeling, and visualization best practices to deliver actionable business insights.
  ---
+ #### 📊 You can also interact directly with my dashboards and try out the forecasting feature yourself through the published Power BI link:
+👉 [https://shorturl.at/QfbZm]
+
  
 For this project, I applied the full data analysis process:
 ## 1️⃣ Descriptive Analytics:
